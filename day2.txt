@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BLOG</title>
+        <link rel="stylesheet" href="style.css">
+        
+    </head>
+
+     <body>
+         <h1><p class="nat"> Electric cars in India</p></h1>
+         <h3><p>The most popular electric cars include Hyundai Kona Electric (Rs. 23.77 Lakh), Audi e-tron (Rs. 99.99 Lakh) and Jaguar I-Pace (Rs. 1.05 Crore).<br>
+            The top brands that produce electric cars are <b> Hyundai, Audi, Jaguar, MG, Mercedes-Benz</b>.<br> Check out best electric cars in India from Hyundai.</p>      
+           <p class="Hyundai Kona Electric"> </p></h3>
+          <img src="./C:\Users\Bindu\Pictures\Saved Pictures" alt="my pic">
+
+        <h4> <p class=p>Engine Type: Permanent Magnet Synchronous Motor</p>
+         <P class=p>Fuel Type: Electric(Battery)</P>
+         <p class=p>Battery Capacity: 39.2kWh </p>
+         <p class=p>Compression ratio - 11.3:1</p>
+         <p class=p>Gear Box: Single Speed Reduction Gear</p>
+         <p class=p>Max Power:134.14bhp</p>
+        
+         
+         <p>Hyundai Kona Electric is an Electric suv Car. The electric motor generates a power of 134.14bhp and a torque of 394.91 Nm/40.27kgm.
+             Hyundai Kona Electric is available in Automatic transmission only.
+         </p>
+         <img src="./img/duke.webp" alt="bike">
+         >
+
+         <a href="https://www.zigwheels.com/newcars/Hyundai/kona/specifications</a>
+
+
+
+     </body>
+</html>
